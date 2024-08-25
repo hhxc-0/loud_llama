@@ -46,11 +46,11 @@ Follow these steps to set up the project:
      3. Choose a `model_name`:
         - For English only: 
           ```python
-          model_name = "whisper-small.en"
+          model_name = "small.en"
           ```
         - For multilingual support: 
           ```python
-          model_name = "whisper-small"
+          model_name = "small"
           ```
         - Consider using larger models for improved transcription quality.
    - **Install as an Individual Model**:
