@@ -1,0 +1,6 @@
+nbformat
+ipython
+numpy
+sounddevice
+tts
+transformers
