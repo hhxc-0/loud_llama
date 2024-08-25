@@ -83,7 +83,8 @@ To use LycaonTalk:
 3. **Interact with the Assistant**:
    - Speak into the microphone when **"Recording..."** is displayed.
    - Wait for the assistant's vocal response.
-   - To stop the conversation, simply stop speaking.
+   - To pause the conversation, simply stop speaking. 
+   - You will need to press Enter to resume the conversation or enter 'bye' to exit.
 
 ## Compatibility
 
