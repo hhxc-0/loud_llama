@@ -83,7 +83,7 @@ To use loud_llama:
    - Speak into the microphone when **"Recording..."** is displayed.
    - Wait for the assistant's vocal response.
    - To pause the conversation, simply stop speaking. 
-   - You will need to press Enter to resume the conversation or enter 'bye' to exit.
+   - Press Enter to resume the conversation, type 'new' to start a new thread, or type 'bye' to exit.
 
 ## Compatibility
 
