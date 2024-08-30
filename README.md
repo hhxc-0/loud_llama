@@ -1,6 +1,6 @@
-# LoudLlama
+# loud_llama
 
-LoudLlama is an AI voice assistant that utilizes Whisper for speech recognition, Ollama for large language model (LLM) capabilities, and XTTS for text-to-speech functionality.
+loud_llama is an AI voice assistant that utilizes Whisper for speech recognition, Ollama for large language model (LLM) capabilities, and XTTS for text-to-speech functionality.
 
 ## Table of Contents
 - [Setup](#setup)
@@ -17,7 +17,7 @@ Follow these steps to set up the project:
    You can either clone the repository or download it as a ZIP file:
    - Clone with Git:
      ```bash
-     git clone https://github.com/GongXiPing/LoudLlama.git
+     git clone https://github.com/GongXiPing/loud_llama.git
      ```
    - Or download as a ZIP:  
      Go to **Code > Download ZIP** on the GitHub page.
@@ -64,7 +64,7 @@ Follow these steps to set up the project:
 
 ## Usage
 
-To use LoudLlama:
+To use loud_llama:
 
 1. **Start the Ollama Service**:
    - Open a terminal and run the following command to start the Ollama service:
@@ -87,8 +87,8 @@ To use LoudLlama:
 
 ## Compatibility
 
-Please note that LoudLlama has currently only been tested on Windows and Python 3.11.9.
+Please note that loud_llama has currently only been tested on Windows and Python 3.11.9.
 
 ## Issues
 
-If you encounter any problems while using the program, please feel free to [post an issue](https://github.com/GongXiPing/LoudLlama/issues) in the GitHub repository, and we will do our best to assist you.
+If you encounter any problems while using the program, please feel free to [post an issue](https://github.com/GongXiPing/loud_llama/issues) in the GitHub repository, and we will do our best to assist you.
